@@ -20,12 +20,12 @@ El plan gratuito funciona como gancho de entrada y limita fuertemente los costos
 
 | Característica | Free | Estándar ($5/mes) | Pro ($10/mes) |
 | :--- | :--- | :--- | :--- |
-| **Productos** | 20[cite: 2] | 250[cite: 2] | Ilimitado (tope storage)[cite: 2] |
-| **Fotos por producto** | 4[cite: 2] | 8[cite: 2] | 12[cite: 2] |
-| **Ventas / mes** | 100[cite: 2] | Ilimitado[cite: 2] | Ilimitado[cite: 2] |
-| **Usuarios** | 2[cite: 2] | 5[cite: 2] | 10[cite: 2] |
-| **Almacenamiento (R2)** | 100 MB[cite: 2] | 2 GB[cite: 2] | 10 GB[cite: 2] |
-| **Marca Gyro en storefront** | Visible[cite: 2] | Removible[cite: 2] | Removible[cite: 2] |
+| **Productos** | 20 | 250 | Ilimitado (tope storage) |
+| **Fotos por producto** | 4 | 8 | 12 |
+| **Ventas / mes** | 100 | Ilimitado | Ilimitado |
+| **Usuarios** | 2 | 5 | 10 |
+| **Almacenamiento (R2)** | 100 MB | 2 GB | 10 GB |
+| **Marca Gyro en storefront** | Visible | Removible | Removible |
 
 > *Nota sobre las ventas en el plan Free: Al superar las 100 ventas, NO se bloquea el registro para no interrumpir el negocio, pero se limita el acceso al historial y a reportes detallados, invitando a subir de plan.*
 
